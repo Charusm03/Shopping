@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gx4hb706wRY=",
+  "success": true,
+  "projectFilePath": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\ShoppingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\questpdf\\2026.9.1\\questpdf.2026.9.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}

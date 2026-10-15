@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|d:\\charu\\vss_ws\\csharpmockassessment\\shoppingapp-sdlc\\shoppingapplication\\shoppingapplication\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|d:\\charu\\vss_ws\\csharpmockassessment\\shoppingapp-sdlc\\shoppingapplication\\shoppingapp\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\view\\userview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|d:\\charu\\vss_ws\\csharpmockassessment\\shoppingapp-sdlc\\shoppingapplication\\shoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|d:\\charu\\vss_ws\\csharpmockassessment\\shoppingapp-sdlc\\shoppingapplication\\shoppingapp\\shoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\shoppingapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|d:\\charu\\vss_ws\\csharpmockassessment\\shoppingapp-sdlc\\shoppingapplication\\shoppingapp\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011B3CB3-392F-425F-BA20-FC88612FF82B}|ShoppingApp\\ShoppingApp.csproj|solutionrelative:shoppingapp\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\service\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\service\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\service\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\service\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\repository\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\repository\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\model\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\shoppingapplication\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E4A43D-BD99-44BE-A6C3-2BD77ED071FC}|ShoppingApplication\\ShoppingApplication.csproj|solutionrelative:shoppingapplication\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ShoppingApplication.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\view\\UserView.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\view\\UserView.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\view\\UserView.cs",
+              "RelativeToolTip": "ShoppingApp\\view\\UserView.cs",
+              "ViewState": "AgIAANkBAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T02:57:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShoppingApp",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\ShoppingApp.csproj",
+              "RelativeDocumentMoniker": "ShoppingApp\\ShoppingApp.csproj",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\ShoppingApp.csproj",
+              "RelativeToolTip": "ShoppingApp\\ShoppingApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-15T02:57:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\Validator.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Validator.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\Validator.cs",
+              "RelativeToolTip": "ShoppingApp\\Validator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T02:54:42.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingApp\\Program.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApp\\Program.cs",
+              "RelativeToolTip": "ShoppingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T02:54:42.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShoppingApplication.csproj",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication.csproj",
+              "RelativeDocumentMoniker": "ShoppingApplication.csproj",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication.csproj",
+              "RelativeToolTip": "ShoppingApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-14T17:57:06.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Service\\AuthService.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\AuthService.cs",
+              "RelativeToolTip": "ShoppingApplication\\Service\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:18:55.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserView.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\View\\UserView.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\View\\UserView.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\View\\UserView.cs",
+              "RelativeToolTip": "ShoppingApplication\\View\\UserView.cs",
+              "ViewState": "AgIAAMIBAAAAAAAAAAAAAMsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Program.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Program.cs",
+              "RelativeToolTip": "ShoppingApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T02:37:43.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\CartService.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Service\\CartService.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\CartService.cs",
+              "RelativeToolTip": "ShoppingApplication\\Service\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\Logger.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Service\\Logger.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\Logger.cs",
+              "RelativeToolTip": "ShoppingApplication\\Service\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Service\\InvoiceService.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Service\\InvoiceService.cs",
+              "RelativeToolTip": "ShoppingApplication\\Service\\InvoiceService.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAADgv18AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ShoppingApplication\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAArwCAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:18:29.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ShoppingApplication\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Model\\User.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\User.cs",
+              "RelativeToolTip": "ShoppingApplication\\Model\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAewAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Repository\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Repository\\InvoiceRepository.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Repository\\InvoiceRepository.cs",
+              "RelativeToolTip": "ShoppingApplication\\Repository\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:18:10.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Model\\Cart.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\Cart.cs",
+              "RelativeToolTip": "ShoppingApplication\\Model\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\Invoice.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Model\\Invoice.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\Invoice.cs",
+              "RelativeToolTip": "ShoppingApplication\\Model\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "ShoppingApplication\\Model\\Product.cs",
+              "ToolTip": "D:\\Charu\\VSS_WS\\CSharpMockAssessment\\ShoppingApp-SDLC\\ShoppingApplication\\ShoppingApplication\\Model\\Product.cs",
+              "RelativeToolTip": "ShoppingApplication\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:09:19.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

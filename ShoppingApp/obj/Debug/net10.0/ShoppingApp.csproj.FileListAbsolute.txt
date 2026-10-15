@@ -1,0 +1,5 @@
+D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApp\obj\Debug\net10.0\ShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApp\obj\Debug\net10.0\ShoppingApp.AssemblyInfoInputs.cache
+D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApp\obj\Debug\net10.0\ShoppingApp.AssemblyInfo.cs
+D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApp\obj\Debug\net10.0\ShoppingApp.csproj.CoreCompileInputs.cache
+D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApp\obj\Debug\net10.0\ShoppingApp.csproj.AssemblyReference.cache
