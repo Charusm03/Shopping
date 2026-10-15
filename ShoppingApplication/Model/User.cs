@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,5 +22,8 @@ namespace ShoppingApplication.Model
                 return string.IsNullOrWhiteSpace(LastName) ? FirstName : $"{FirstName} {LastName}";
             }
         }
+
+        // public set + default list: loads correctly from users.json and is never null (old users get an empty list)
+        public List<Address> Addresses { get; set; } = new();
     }
 }

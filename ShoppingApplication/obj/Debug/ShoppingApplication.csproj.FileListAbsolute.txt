@@ -1,2 +1,0 @@
-D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.AssemblyReference.cache
-D:\Charu\VSS_WS\CSharpMockAssessment\ShoppingApp-SDLC\ShoppingApplication\ShoppingApplication\obj\Debug\ShoppingApplication.csproj.CoreCompileInputs.cache

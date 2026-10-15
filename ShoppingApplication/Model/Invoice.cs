@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,5 +19,7 @@ namespace ShoppingApplication.Model
                 return Items.Sum(i => i.Total);
             }
         }
+
+        public Address? DeliveryAddress { get; set; }
     }
 }

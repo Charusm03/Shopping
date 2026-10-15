@@ -1,6 +1,8 @@
-﻿using ShoppingApplication.Model;
+using QuestPDF.Fluent;
+using QuestPDF.Helpers;
+using QuestPDF.Infrastructure;
+using ShoppingApplication.Model;
 using ShoppingApplication.Repository;
-using System;
 using System.Diagnostics;
 
 namespace ShoppingApplication.Service {
@@ -14,7 +16,8 @@ namespace ShoppingApplication.Service {
 
         public Invoice TopLayer(User user, IEnumerable<CartItem> items) => new()
         {
-            Number = $"INVOICE - {DateTime.Now:yyyyMMdd-HHmmss}",
+            // "INV-..." (no spaces) so the PDF file name is clean and the screen does not say "INVOICE INVOICE"
+            Number = $"INV-{DateTime.Now:yyyyMMdd-HHmmss}",
             Date = DateTime.Now,
             Customer = user,
             Items = items.ToList(),
@@ -43,7 +46,8 @@ namespace ShoppingApplication.Service {
                     col.Spacing(6);
                     col.Item().Text($"Username   : {inv.Customer.Username}");
                     col.Item().Text($"First Name : {inv.Customer.FirstName}");
-                    col.Item().Text($"Last Name  : {inv.Customer.LastName ?? "-"}");
+                    col.Item().Text($"Last Name  : {(string.IsNullOrWhiteSpace(inv.Customer.LastName) ? "-" : inv.Customer.LastName)}");
+                    col.Item().Text($"Deliver To : {inv.DeliveryAddress}");
                     col.Item().PaddingTop(10);
 
                     col.Item().Table(t =>
